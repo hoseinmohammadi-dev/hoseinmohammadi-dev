@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hosein mohammadi</h1>
 <h3 align="center">A passionate frontend developer from iran</h3>
 
-<img align="left" alt="coding" width="100%"  src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" >
+<img align="left" alt="coding" width="100%" height="240px" object-fit="cover" object-position="top"   src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hoseinmohammadi-dev" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoseinmohammadi-dev" alt="hoseinmohammadi-dev" /></a> </p>
