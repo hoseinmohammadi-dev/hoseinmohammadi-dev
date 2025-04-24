@@ -3,9 +3,6 @@
 
 <img align="center" alt="coding" width="100%" height="240px" object-fit="cover" object-position="top"   src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hoseinmohammadi-dev" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoseinmohammadi-dev" alt="hoseinmohammadi-dev" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hoseinmohammadi-dev](https://github.com/hoseinmohammadi-dev)
@@ -25,6 +22,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoseinmohammadi-dev&show_icons=true&locale=en&layout=compact" alt="hoseinmohammadi-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoseinmohammadi-dev&show_icons=true&locale=en" alt="hoseinmohammadi-dev" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hoseinmohammadi-dev" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoseinmohammadi-dev" alt="hoseinmohammadi-dev" /></a> </p>
+
 
 
 
