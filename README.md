@@ -33,7 +33,7 @@ I'm always open to new opportunities to learn, collaborate, and grow.
 
 <br/>
 
-# 📊 GitHub Stats :
+## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=hoseinmohammadi-dev&theme=midnight-purple&hide_border=true&center=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoseinmohammadi-dev&theme=midnight-purple&center=true&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmohammadi-dev&theme=midnight-purple&center=true&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
