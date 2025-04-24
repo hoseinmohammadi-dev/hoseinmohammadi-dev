@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm hosein mohammadi</h1>
-<h3 align="center">A passionate frontend developer from iran</h3>
 
 <img align="center" alt="coding" width="100%" height="240px" object-fit="cover" object-position="top"   src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" >
 
