@@ -43,7 +43,7 @@ I'm always open to new opportunities to learn, collaborate, and grow.
 
 ## 🏆 GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=hoseinmohammadi-dev&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hoseinmohammadi-dev" width="11%" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hoseinmohammadi-dev"  /> </p>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
