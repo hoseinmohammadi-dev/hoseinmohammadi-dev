@@ -33,14 +33,16 @@
 <br/>
 
 # 📊 GitHub Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoseinmohammadi-dev&show_icons=true&locale=en&layout=compact" alt="hoseinmohammadi-dev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoseinmohammadi-dev&show_icons=true&locale=en" alt="hoseinmohammadi-dev" /></p>
+![](https://github-readme-stats.vercel.app/api?username=hoseinmohammadi-dev&theme=midnight-purple&hide_border=true&center=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hoseinmohammadi-dev&theme=midnight-purple&center=true&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmohammadi-dev&theme=midnight-purple&center=true&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 <br/>
 
 ## 🏆 GitHub Trophies :
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoseinmohammadi-dev" alt="hoseinmohammadi-dev" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hoseinmohammadi-dev" /> </p>
+![](https://github-profile-trophy.vercel.app/?username=hoseinmohammadi-dev&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hoseinmohammadi-dev" width="11%" /> </p>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
