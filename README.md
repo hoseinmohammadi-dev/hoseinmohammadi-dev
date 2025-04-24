@@ -4,13 +4,15 @@
 <img align="center" alt="coding" width="100%" height="240px" object-fit="cover" object-position="top"   src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" >
 
 ## 💫 About Me :
-- 🌱 I’m currently learning **JavaScript**
+Hi! I'm Hosein, a motivated and energetic front-end developer passionate about creating clean, user-friendly, and responsive interfaces.
 
-- 👨‍💻 All of my projects are available at [https://github.com/hoseinmohammadi-dev](https://github.com/hoseinmohammadi-dev)
+I'm well-versed in HTML, CSS, and Bootstrap, and I've worked on various projects using these technologies. I also have a solid foundation in JavaScript and am currently working on advancing my skills to build more dynamic and interactive web applications.
 
-- 💬 Ask me about **JavaScript html css3 BootStrap**
+To me, coding is more than just writing code — it's about problem-solving, improving user experiences, and growing through continuous learning. I value structure, consistent progress, and working with creative, driven teams that care about quality and innovation.
 
-- 📫 How to reach me **hosein011dev@gmail.com**
+I'm always open to new opportunities to learn, collaborate, and grow.
+
+
 
 <br/>
 
