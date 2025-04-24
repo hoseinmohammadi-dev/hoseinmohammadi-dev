@@ -18,6 +18,11 @@
 ## 🌐 Socials :
 <p align="left">
 <a href="https://instagram.com/hoseinmdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hoseinmdev" height="30" width="40" /></a>
+  <a href="https://hosein011dev@gmail.com" target="blank">
+  <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="sama-babaee-web" height="30" width="40" /></a>
+  <a href="https://t.me/sama_b4" target="blank">
+    <a href="https://t.me/h11mx" target="blank">
+  <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="sama-babaee-web" /></a>
 </p>
 
 <br/>
