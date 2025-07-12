@@ -46,10 +46,12 @@ I'm always open to new opportunities to learn, collaborate, and grow.
 <br/>
 
 ## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=hoseinmohammadi-dev&theme=midnight-purple&hide_border=true&center=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hoseinmohammadi-dev&theme=midnight-purple&center=true&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmohammadi-dev&theme=midnight-purple&center=true&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmohammadi-dev&layout=compact&theme=holi)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoseinmohammadi-dev&show_icons=true&theme=holi)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hoseinmohammadi-dev?theme=nord)
 
 <br/>
 
