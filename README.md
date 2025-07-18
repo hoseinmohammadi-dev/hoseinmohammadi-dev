@@ -51,7 +51,6 @@ I'm always open to new opportunities to learn, collaborate, and grow.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoseinmohammadi-dev&show_icons=true&theme=holi)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hoseinmohammadi-dev?theme=nord)
 
 <br/>
 
