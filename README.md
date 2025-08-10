@@ -3,18 +3,12 @@
 <img align="center" alt="coding" width="100%" height="240px" object-fit="cover" object-position="top"   src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" >
 
 ## 💫 About Me :
-Hi! I'm Hosein, a motivated and energetic front-end developer passionate about creating clean, user-friendly, and responsive interfaces.
-
-I'm well-versed in HTML, CSS, and Bootstrap, and I've worked on various projects using these technologies. I also have a solid foundation in JavaScript and am currently working on advancing my skills to build more dynamic and interactive web applications.
-
-To me, coding is more than just writing code — it's about problem-solving, improving user experiences, and growing through continuous learning. I value structure, consistent progress, and working with creative, driven teams that care about quality and innovation.
-
-I'm always open to new opportunities to learn, collaborate, and grow.
-
-
+Hi, I’m Hossein.
+I’ve been active in frontend development for about a year, passionate about creating smooth and engaging user experiences.
+Currently, I work with JavaScript, React, Tailwind CSS, and CSS/SCSS with nesting.
+I’m always eager to learn new tools and improve my skills.
 
 <br/>
-
 
 ## 🌐 Socials :
 <p align="left">
@@ -31,7 +25,6 @@ I'm always open to new opportunities to learn, collaborate, and grow.
 
 ## 💻 Languages and Tools :
 <div align="left">
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
@@ -47,19 +40,13 @@ I'm always open to new opportunities to learn, collaborate, and grow.
 
 ## 📊 GitHub Stats :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmohammadi-dev&layout=compact&theme=holi)
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoseinmohammadi-dev&show_icons=true&theme=holi)
-
 
 <br/>
 
 ## 🏆 GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=hoseinmohammadi-dev&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hoseinmohammadi-dev"  /> </p>
-
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
 </a>
-
-
