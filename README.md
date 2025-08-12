@@ -12,13 +12,9 @@ I’m always eager to learn new tools and improve my skills.
 
 ## 🌐 Socials :
 <p align="left">
-  <a href="https://linkedin.com/in/hoseinmohammadi-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sama-babaee-54135324b" height="30" width="40" /></a>
-<a href="https://instagram.com/hoseinmdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hoseinmdev" height="30" width="40" /></a>
-  <a href="https://hosein011dev@gmail.com" target="blank">
-  <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="sama-babaee-web" height="30" width="40" /></a>
-  <a href="https://t.me/sama_b4" target="blank">
-    <a href="https://t.me/h11mx" target="blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="sama-babaee-web" /></a>
+    <a href="https://github.com/hoseinmohammadi-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/hoseinmohammadi-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://t.me/h11mx" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <br/>
