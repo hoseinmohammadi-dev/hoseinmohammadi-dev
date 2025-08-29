@@ -2,22 +2,12 @@
 
 <img align="center" alt="coding" width="100%" height="240px" object-fit="cover" object-position="top"   src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" >
 
-## 💫 About Me :
-Hi, I’m Hossein.
-I’ve been active in frontend development for about a year, passionate about creating smooth and engaging user experiences.
-Currently, I work with JavaScript, React, Tailwind CSS, and CSS/SCSS with nesting.
-I’m always eager to learn new tools and improve my skills.
-
-<br/>
-
 ## 🌐 Socials :
 <p align="left">
     <a href="https://github.com/hoseinmohammadi-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://linkedin.com/in/hoseinmohammadi-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://t.me/h11mx" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
-
-<br/>
 
 ## 💻 Languages and Tools :
 <div align="left">
@@ -32,17 +22,8 @@ I’m always eager to learn new tools and improve my skills.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-<br/>
-
 ## 📊 GitHub Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmohammadi-dev&layout=compact&theme=holi)
+<p > <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6" alt="hoseinmohammadi-dev"/> </p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoseinmohammadi-dev&show_icons=true&theme=holi)
-
-<br/>
-
-## 🏆 GitHub Trophies :
-![](https://github-profile-trophy.vercel.app/?username=hoseinmohammadi-dev&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hoseinmohammadi-dev"  /> </p>
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmohammadi-dev&layout=compact&theme=holi)
