@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm hosein mohammadi</h1>
-
-<img align="center" alt="coding" width="100%" height="240px" object-fit="cover" object-position="top"   src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" >
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/9ebddd89-205a-46db-a39c-80c0804abbc4" />
 
 ## 🌐 Socials :
 <p align="left">
