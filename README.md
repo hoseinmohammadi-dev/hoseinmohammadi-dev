@@ -1,4 +1,5 @@
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/4abe5135-77d7-4989-9ed2-df86b9cecbff" />
+<p > <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6" alt="hoseinmohammadi-dev"/> </p>
 
 ## 🌐 Socials :
 <p align="left">
@@ -21,7 +22,5 @@
 </div>
 
 ## 📊 GitHub Stats :
-<p > <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6" alt="hoseinmohammadi-dev"/> </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoseinmohammadi-dev&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmohammadi-dev&layout=compact&theme=holi)
