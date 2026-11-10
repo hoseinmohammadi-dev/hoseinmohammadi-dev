@@ -1,25 +1,40 @@
-![Image](https://github.com/user-attachments/assets/493ab458-29f4-45ca-a566-8de2c5e7971c)
+![Hosein Mohammadi · Frontend developer](https://github.com/user-attachments/assets/493ab458-29f4-45ca-a566-8de2c5e7971c)
 
-<p > <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6" alt="hoseinmohammadi-dev"/> </p>
+I build responsive web interfaces with React, Next.js, and TypeScript. I use Framer Motion for transitions and Axios to connect interfaces to APIs.
 
-## 🌐 Socials :
-<p align="left">
-    <a href="https://github.com/hoseinmohammadi-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/hoseinmohammadi-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://t.me/h11mx" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-075CC1?style=for-the-badge)](https://hoseinmdev.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-123766?style=for-the-badge)](https://linkedin.com/in/hoseinmohammadi-dev)
+[![Telegram](https://img.shields.io/badge/Telegram-123766?style=for-the-badge&logo=telegram&logoColor=BCE8FF)](https://t.me/h11mx)
+[![GitHub](https://img.shields.io/badge/GitHub-123766?style=for-the-badge&logo=github&logoColor=BCE8FF)](https://github.com/hoseinmohammadi-dev)
 
-## 💻 Languages and Tools :
-<div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+## Tech stack
 
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-123766?style=flat-square&logo=typescript&logoColor=BCE8FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-123766?style=flat-square&logo=javascript&logoColor=BCE8FF)
+![Python](https://img.shields.io/badge/Python-123766?style=flat-square&logo=python&logoColor=BCE8FF)
+![HTML5](https://img.shields.io/badge/HTML5-123766?style=flat-square&logo=html5&logoColor=BCE8FF)
+![CSS3](https://img.shields.io/badge/CSS3-123766?style=flat-square&logo=css&logoColor=BCE8FF)
+
+**Frontend & motion**
+
+![React](https://img.shields.io/badge/React-0C4A82?style=flat-square&logo=react&logoColor=BCE8FF)
+![Next.js](https://img.shields.io/badge/Next.js-0C4A82?style=flat-square&logo=nextdotjs&logoColor=BCE8FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0C4A82?style=flat-square&logo=tailwindcss&logoColor=BCE8FF)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0C4A82?style=flat-square&logo=framer&logoColor=BCE8FF)
+
+**State, APIs & runtime**
+
+![Zustand](https://img.shields.io/badge/Zustand-123766?style=flat-square)
+![Axios](https://img.shields.io/badge/Axios-123766?style=flat-square&logo=axios&logoColor=BCE8FF)
+![REST API](https://img.shields.io/badge/REST%20API-123766?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-123766?style=flat-square&logo=nodedotjs&logoColor=BCE8FF)
+
+**Version control**
+
+![Git](https://img.shields.io/badge/Git-0C4A82?style=flat-square&logo=git&logoColor=BCE8FF)
+![GitHub](https://img.shields.io/badge/GitHub-0C4A82?style=flat-square&logo=github&logoColor=BCE8FF)
+
+![Profile views](https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6)
 
